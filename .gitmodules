@@ -7,3 +7,6 @@
 [submodule "task2-submodule"]
 	path = task2-submodule
 	url = ./task2-submodule
+[submodule "task4-submodule"]
+	path = task4-submodule
+	url = ./task4-submodule
