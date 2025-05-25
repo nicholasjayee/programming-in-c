@@ -10,3 +10,6 @@
 [submodule "task4-submodule"]
 	path = task4-submodule
 	url = ./task4-submodule
+[submodule "task6-submodule"]
+	path = task6-submodule
+	url = ./task6-submodule
